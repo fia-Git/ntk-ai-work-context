@@ -14,11 +14,13 @@ AIは、このリポジトリの内容を参照し、資料作成、報告文作
 2. README.md
 3. .github/copilot-instructions.md
 4. 00_profile/profile.md
-5. 10_work/work-overview.md
-6. 10_work/glossary.md
-7. 20_output_rules/writing-style-and-templates.md
-8. 40_projects/active-projects.md
-9. 必要に応じて 30_chat_logs/ の最新月ファイル
+5. 00_profile/stakeholder-profiles.md
+6. 10_work/work-overview.md
+7. 10_work/glossary.md
+8. 20_output_rules/writing-style-and-templates.md
+9. 40_projects/active-projects.md
+10. 必要に応じて 30_chat_logs/ の最新月ファイル
+
 
 存在しないファイルや未作成の月別ログは無視してよい。
 
