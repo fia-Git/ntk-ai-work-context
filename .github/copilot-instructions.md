@@ -8,17 +8,19 @@ AIは、このリポジトリの内容を参照し、資料作成、報告文作
 
 ## 最初に参照するファイル
 
-AIは、このリポジトリを参照して回答する場合、原則として以下の順番で内容を確認してください。
+新規スレッドまたは新しいAIがこのリポジトリを使用する場合は、以下の順番で参照する。
 
-1. `README.md`
-2. `00_profile/profile.md`
-3. `10_work/work-overview.md`
-4. `20_output_rules/writing-style-and-templates.md`
-5. `40_projects/active-projects.md`
-6. 必要に応じて `30_chat_logs/` の最新月ファイル
+1. AI_HANDOFF.md
+2. README.md
+3. .github/copilot-instructions.md
+4. 00_profile/profile.md
+5. 10_work/work-overview.md
+6. 10_work/glossary.md
+7. 20_output_rules/writing-style-and-templates.md
+8. 40_projects/active-projects.md
+9. 必要に応じて 30_chat_logs/ の最新月ファイル
 
-ただし、まだ存在しないファイルがある場合は、そのファイルは無視してください。  
-存在するファイルの情報をもとに回答し、不足している情報がある場合は推測で断定せず、ユーザーに確認してください。
+存在しないファイルや未作成の月別ログは無視してよい。
 
 ---
 
