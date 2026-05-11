@@ -49,6 +49,7 @@ ntk-ai-work-context/
 │
 ├─ 00_profile/
 │  └─ profile.md
+│  └─ stakeholder-profiles.md
 │
 ├─ 10_work/
 │  ├─ work-overview.md
