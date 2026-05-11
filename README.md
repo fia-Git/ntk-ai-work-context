@@ -99,13 +99,16 @@ AIは、このリポジトリの内容を参照する際、以下の方針を守
 
 AIにこのリポジトリを読み込ませる場合は、以下の順番で参照してください。
 
-1. `README.md`
-2. `.github/copilot-instructions.md`
-3. `00_profile/profile.md`
-4. `10_work/work-overview.md`
-5. `20_output_rules/writing-style-and-templates.md`
-6. `30_chat_logs/`
-7. `40_projects/active-projects.md`
+1. AI_HANDOFF.md
+2. README.md
+3. .github/copilot-instructions.md
+4. 00_profile/profile.md
+5. 10_work/work-overview.md
+6. 10_work/glossary.md
+7. 20_output_rules/writing-style-and-templates.md
+8. 40_projects/active-projects.md
+9. 必要に応じて 30_chat_logs/ の最新月ファイル
+
 
 ---
 
