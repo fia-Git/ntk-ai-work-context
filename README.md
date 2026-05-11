@@ -109,28 +109,23 @@ AIにこのリポジトリを読み込ませる場合は、以下の順番で参
 
 ---
 
-## フォルダ構成予定
+## リポジトリ構成
 
 ```text
 ntk-ai-work-context/
 ├─ README.md
-├─ SECURITY.md
+├─ AI_HANDOFF.md
 ├─ .github/
 │  └─ copilot-instructions.md
-│
 ├─ 00_profile/
 │  └─ profile.md
-│
 ├─ 10_work/
 │  ├─ work-overview.md
 │  └─ glossary.md
-│
 ├─ 20_output_rules/
 │  └─ writing-style-and-templates.md
-│
 ├─ 30_chat_logs/
 │  ├─ README.md
 │  └─ YYYY-MM.md
-│
 └─ 40_projects/
    └─ active-projects.md
